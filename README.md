@@ -25,11 +25,11 @@
 
 ## 📂 Public projects
 
-### 🔐 Bank-Trans (WIP)
+### 🔐 Bank-Trans
 Real-time transaction processing pipeline using Kafka & rule-based anomaly detection  
 `→ Stream processing · Alerts · Dashboard · Python · Redpanda`
 
-### 🛠 INI Parser (Planned)  
+### 🛠 INI Parser  
 Minimal CLI tool to read `.ini` config files in modern C++  
 `→ std::map · file I/O · fuzz testing · CLI design`
 
