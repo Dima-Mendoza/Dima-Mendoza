@@ -15,11 +15,11 @@
 | Area           | Technologies                                       |
 | -------------- | -------------------------------------------------- |
 | Languages      | Python, C++, Bash                                  |
-| ML     | pandas, NumPy, scikit-learn, CatBoost, XGBoost     |
+| ML     | pandas, NumPy, scikit-learn, CatBoost, XGBoost             |
 | Security       | Nmap, Burp Suite, Wireshark, OSINT, MITRE ATT&CK   |
 | Data Engineering | Kafka, Redpanda, ETL pipelines                   |
-| MLOps | MLflow, Apache Airflow                                      |
-| Infrastructure | Linux, Git Docker, Kubernetes, Proxmox             |
+| MLOps | MLflow, Apache Airflow, GitHub Actions                      |
+| Infrastructure | Linux, Git, Docker, Kubernetes, Proxmox            |
 
 ---
 
