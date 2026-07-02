@@ -1,70 +1,103 @@
 <h1 align="center">Welcome 👋</h1>
+
 <p align="center">
-  <b>🎯 Red Teamer in training</b> &nbsp;|&nbsp; 💻 <b>C++ / Qt Developer</b> &nbsp;|&nbsp; 📊 <b>Business-driven builder</b>
+  <b>Cybersecurity ML Engineer</b> · <b>Information Security Student</b>
 </p>
 
----
-
-## 🧠 About Me
-
-- 🎓 Student in Information Security  
-- 🛠 Building a Red Team homelab (Proxmox + MikroTik)  
-- 👨‍💻 Focused on **C++**, **Python**, and systems-level development  
-- 💡 Exploring offensive security, fuzzing, and strategy
+<p align="center">
+  Building ML-driven security systems, anomaly detection pipelines, and practical cybersecurity tools.
+</p>
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Languages      | Tools & Frameworks           | Infra & Systems          |
-|----------------|------------------------------|--------------------------|
-| C++, Python, Bash | Qt, Git, CMake, gdb, Wireshark | Docker, Proxmox, MikroTik, Linux |
-| Red Team TTPs  | Burp Suite, Nmap, Metasploit | OSINT, Reverse Engineering (beginner) |
+| Area           | Technologies                                       |
+| -------------- | -------------------------------------------------- |
+| Languages      | Python, C++, Bash                                  |
+| ML / Data      | pandas, NumPy, scikit-learn, CatBoost, XGBoost     |
+| Security       | Nmap, Burp Suite, Wireshark, OSINT, fuzzing        |
+| Data Engineering | Kafka, Redpanda, ETL pipelines                   |
+| MLOps | MLflow, Apache Airflow                                      |
+| Infrastructure | Linux, Git Docker, Kubernetes, Proxmox             |
 
 ---
 
-## 📂 Public projects
+## 📂 Featured Projects
 
 ### 🔐 Bank-Trans
-Real-time transaction processing pipeline using Kafka & rule-based anomaly detection  
-`→ Stream processing · Alerts · Dashboard · Python · Redpanda`
 
-### 🛠 INI Parser  
-Minimal CLI tool to read `.ini` config files in modern C++  
-`→ std::map · file I/O · fuzz testing · CLI design`
+Real-time transaction analysis system for anomaly detection and suspicious activity monitoring.
 
-### 🌍 Geodesy  
-C++ project for JGD2000-based geodesic computations with Excel output using libxlsxwriter  
-`→ Latitude/longitude adjustments · Azimuth · Geodetic correction · Excel reports`
+`Python · Kafka · Redpanda · Stream Processing · Anomaly Detection · Security Analytics`
 
----
+Key ideas:
 
-## 🧭 Achievements
+* Real-time processing of transaction events
+* Rule-based anomaly detection
+* Alert generation for suspicious patterns
+* Foundation for ML-based fraud and behavior detection
+* Dashboard-oriented security monitoring architecture
 
-### ✅ Accomplished
-- Built Proxmox VM with GPU passthrough  
-- Deployed Redpanda + Kafka + Console cluster  
-- Created stream processor with alert logic  
-- Reorganized academic Informatics codebase
+Planned improvements:
 
-### 🎯 In Progress / Upcoming
-- Complete C++ CLI parser project  
-- Launch a production-ready MVP: Kafka-based transaction analysis system with rules and web dashboard
-- Rewrite legacy Project 86 from C# to C++, improving performance and maintainability
-- Master key services in Yandex Cloud (Compute, VPC, Load Balancer, Terraform) by replicating and migrating core components from Proxmox homelab
+* Add ML-based anomaly detection models
+* Build feature extraction pipeline
+* Compare rule-based and ML-based detection approaches
+* Add model evaluation and explainability metrics
 
 ---
 
+### 🧪 Security ML Lab
+
+Experimental machine learning lab for cybersecurity datasets and detection tasks.
+
+`Python · scikit-learn · pandas · Anomaly Detection · Classification`
+
+Focus areas:
+
+* Log and event classification
+* Outlier detection
+* Feature engineering for security data
+* Model evaluation: precision, recall, F1-score, ROC-AUC
+* Practical notebooks and reproducible experiments
+
+---
+
+### 🛠 INI Parser
+
+Minimal command-line parser for `.ini` configuration files written in modern C++.
+
+`C++ · CLI · File I/O · std::map · Fuzz Testing`
+
+Focus areas:
+
+* Clean parsing logic
+* CLI design
+* Error handling
+* Testing and robustness
+* Fuzzing-oriented improvements
+
+---
+
+### 🌍 Geodesy
+
+C++ project for JGD2000-based geodetic computations with Excel report generation.
+
+`C++ · libxlsxwriter · Geodesy · Excel Reports`
+
+Features:
+
+* Latitude and longitude adjustment calculations
+* Azimuth-related computations
+* Geodetic correction logic
+* Structured Excel output
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dima-Mendoza&show_icons=true&theme=github_dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-Mendoza&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
