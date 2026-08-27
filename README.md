@@ -15,7 +15,7 @@
 | Area           | Technologies                                       |
 | -------------- | -------------------------------------------------- |
 | Languages      | Python, C++, Bash                                  |
-| ML     | pandas, NumPy, scikit-learn, CatBoost, XGBoost             |
+| ML     | pandas, NumPy, scikit-learn, CatBoost, LightGBM            |
 | Security       | Nmap, Burp Suite, Wireshark, OSINT, MITRE ATT&CK   |
 | Data Engineering | Kafka, Redpanda, ETL pipelines                   |
 | MLOps | MLflow, Apache Airflow, GitHub Actions                      |
@@ -94,10 +94,3 @@ Features:
 * Structured Excel output
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dima-Mendoza&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-Mendoza&layout=compact&theme=github_dark&hide_border=true" />
-</p>
